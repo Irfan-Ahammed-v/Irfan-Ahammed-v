@@ -27,8 +27,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolvyywolvx&show_icons=true&theme=default" alt="Wolvyy's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolvyywolvx&layout=compact&theme=default" alt="Top languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-Ahammed-v&show_icons=true&theme=default" alt="Wolvyy's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Ahammed-v&layout=compact&theme=default" alt="Top languages" height="150"/>
 </p>
 
 ---
@@ -41,4 +41,5 @@
 ---
 
 ### 💡 “Code is not just instructions to a machine; it’s a solution to a human problem.”
+
 
